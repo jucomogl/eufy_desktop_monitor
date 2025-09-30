@@ -1,0 +1,9 @@
+{
+  "ws_url": "ws://127.0.0.1:3000",
+  "notify": { "cooldown_seconds": 90 },
+  "health": {
+    "device_stale_seconds": 180,
+    "offline_grace_seconds": 60
+  }
+}
+
